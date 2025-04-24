@@ -57,3 +57,4 @@ uvicorn app.main:app --reload
 ![My paid & unpaid fines](screenshots/Screenshot%202025-04-24%20224431.png)
 ![Fine partial payment](screenshots/Screenshot%202025-04-24%20224614.png)
 ![Full payment](screenshots/Screenshot%202025-04-24%20224632.png)
+![Loaning a Book](screenshots/Screenshot%202025-04-24%20225004.png)
