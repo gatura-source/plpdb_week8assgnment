@@ -48,4 +48,4 @@ ALGORITHM = "HS256"
 uvicorn app.main:app --reload
 
 #Here are screenhosts of the API in action
-![My Loans Response](screenhosts/'Screenshot 2025-04-24 223208.png')
+![My Loans Response](screenhosts/Screenshot 2025-04-24 223208.png)
