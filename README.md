@@ -46,6 +46,14 @@ SECRET_KEY = "your_super_secret"
 ALGORITHM = "HS256"
 
 uvicorn app.main:app --reload
-
+```
 #Here are screenhosts of the API in action
-![My Loans Response](Screenshot2025-04-24223208.png)
+
+![Auth Token](screenshots/Screenshot2025-04-24223208.png)
+![Loaned Books](screenshots/Screenshot%202025-04-24%20223502.png)
+![Books Available](screenshots/Screenshot%202025-04-24%20223556.png)
+![Loan Return](screenshots/Screenshot%202025-04-24%20223827.png)
+![Try Borrowing with existing loan](screenshots/Screenshot%202025-04-24%20223947.png)
+![My paid & unpaid fines](screenshots/Screenshot%202025-04-24%20224431.png)
+![Fine partial payment](screenshots/Screenshot%202025-04-24%20224614.png)
+![Full payment](screenshots/Screenshot%202025-04-24%20224632.png)
